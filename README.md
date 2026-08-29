@@ -2,7 +2,7 @@
 
 CS grad (University of Cincinnati, 2026) building applied-LLM and full-stack systems. I like understanding how things work under the hood: I've built a transformer from scratch, a RAG pipeline without a framework, and an agentic CLI with no dependencies.
 
-Open to ML/AI Engineer, Software Engineer, and Data roles. US work-authorized, no sponsorship needed.
+Open to ML/AI Engineer, Software Engineer, and Data roles. 
 
 ### Tech
 
