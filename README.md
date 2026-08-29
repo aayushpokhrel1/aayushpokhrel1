@@ -1,6 +1,6 @@
 ## Aayush Pokhrel
 
-Software developer. Right now I'm going deep on **quantitative trading**, and I coach **chess** on the side.
+Software developer. Right now I'm doing a deep learning on quantitative trading, and I'm working on my chess coaching app on the side to improve my game.
 
 I like small, well-built tools and figuring out how things actually work under the hood.
 
