@@ -1,16 +1,11 @@
-# Hi, I'm Aayush 👋
+## Aayush Pokhrel
 
-<!-- One or two lines about you. Edit this. -->
-Developer focused on building clean, useful software. Currently learning and shipping side projects.
+Software developer. Right now I'm going deep on **quantitative trading**, and I coach **chess** on the side.
 
-- 🔭 Currently working on: **<your current project>**
-- 🌱 Currently learning: **<a tech you're picking up>**
-- 💬 Ask me about: **<topics>**
-- 📫 Reach me: [email](mailto:aayus.pok@gmail.com)
+I like small, well-built tools and figuring out how things actually work under the hood.
 
-## 🛠️ Tech Stack
+### Tech
 
-<!-- Delete the ones you don't use, add the ones you do. -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -18,13 +13,18 @@ Developer focused on building clean, useful software. Currently learning and shi
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+### Currently
 
-![Aayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushpokhrel1&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpokhrel1&layout=compact&theme=default)
+- Learning quantitative trading: strategy backtesting, market data, risk.
+- Coaching chess and studying the game seriously.
+- Building side projects to sharpen the above.
 
-## 🔗 Connect
+### Stats
 
-<!-- Fill in your handles, or delete lines you don't want. -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushpokhrel1&show_icons=true&hide_border=true&theme=graywhite)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpokhrel1&layout=compact&hide_border=true&theme=graywhite)
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-pokhrel-dev/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aayus.pok@gmail.com)
