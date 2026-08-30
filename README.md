@@ -29,11 +29,6 @@ Open to ML/AI Engineer, Software Engineer, and Data roles.
 - Building applied-LLM projects to go deeper on RAG, evaluation, and agentic tooling.
 - Previously: autonomous-systems research intern at the University of Dayton Research Institute (quantum simulation in Python; cut runtime ~90% and built PyTorch surrogate models).
 
-### Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushpokhrel1&show_icons=true&hide_border=true&theme=graywhite)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpokhrel1&layout=compact&hide_border=true&theme=graywhite)
-
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aayush-pokhrel-dev/)
